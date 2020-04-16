@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Simple-Tic-Tac-Toe/static/css/main.3fa7586b.chunk.css",
+    "main.js": "/Simple-Tic-Tac-Toe/static/js/main.dd4c5c67.chunk.js",
+    "main.js.map": "/Simple-Tic-Tac-Toe/static/js/main.dd4c5c67.chunk.js.map",
+    "runtime-main.js": "/Simple-Tic-Tac-Toe/static/js/runtime-main.b2dda990.js",
+    "runtime-main.js.map": "/Simple-Tic-Tac-Toe/static/js/runtime-main.b2dda990.js.map",
+    "static/js/2.b102e267.chunk.js": "/Simple-Tic-Tac-Toe/static/js/2.b102e267.chunk.js",
+    "static/js/2.b102e267.chunk.js.map": "/Simple-Tic-Tac-Toe/static/js/2.b102e267.chunk.js.map",
+    "index.html": "/Simple-Tic-Tac-Toe/index.html",
+    "precache-manifest.29ba75e9511fe0c3d91e20678dc7ae9b.js": "/Simple-Tic-Tac-Toe/precache-manifest.29ba75e9511fe0c3d91e20678dc7ae9b.js",
+    "service-worker.js": "/Simple-Tic-Tac-Toe/service-worker.js",
+    "static/css/main.3fa7586b.chunk.css.map": "/Simple-Tic-Tac-Toe/static/css/main.3fa7586b.chunk.css.map",
+    "static/js/2.b102e267.chunk.js.LICENSE.txt": "/Simple-Tic-Tac-Toe/static/js/2.b102e267.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2dda990.js",
+    "static/js/2.b102e267.chunk.js",
+    "static/css/main.3fa7586b.chunk.css",
+    "static/js/main.dd4c5c67.chunk.js"
+  ]
+}
